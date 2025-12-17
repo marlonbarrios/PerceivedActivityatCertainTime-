@@ -2,6 +2,8 @@
 
 Generative art sketch featuring animated noise waves that respond to the time of day. Wave activity peaks at midday and reaches zero at midnight, creating a visual representation of perceived daily activity.
 
+![Screenshot](screenshot.png)
+
 ## Setup
 
 1. Install dependencies:
